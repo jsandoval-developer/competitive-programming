@@ -1,1 +1,1 @@
-# Competitive Programmer's Handbook
+# Practice with Competitive Programmer's Handbook
